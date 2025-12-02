@@ -5,9 +5,9 @@
   ### 5th Sem B.E. CSE Student & Aspiring Developer
 
   <p>
-    <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/ningaraj/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="[Your Portfolio/Website URL]"><img src="https://img.shields.io/badge/-Portfolio-FF7700?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-    <a href="mailto:[Your Email Address]"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:ningarajmv46@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
   
   <p>
