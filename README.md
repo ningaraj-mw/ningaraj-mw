@@ -23,11 +23,11 @@
 I am a **5th Semester B.E. (Computer Science Engineering)** student, currently focused on **[Your main technology, e.g., Web Development / Data Structures & Algorithms / Cloud Computing]**. I enjoy building and exploring new technologies.
 
 - 🎓 **Status:** 5th Semester, B.E. CSE.
-- 🔭 I’m currently working on: **[A specific project or tech stack, e.g., building a REST API using Node.js.]**
-- 🌱 I’m currently learning: **[A new language, framework, or concept, e.g., Advanced Python concepts and Docker.]**
-- 🤝 I’m looking to collaborate on: **[College projects, hackathons, or open-source contribution in X field.]**
-- 💬 Ask me about: **[Your expertise area, e.g., C++, basic web development, or Git.]**
-- ⚡ Fun fact: **[A short, interesting personal detail.]**
+- 🔭 I’m currently working on: **Building my carrie**
+- 🌱 I’m currently learning: **Web Development**
+- 🤝 I’m looking to collaborate on: **Funding pips**
+- 💬 Ask me about: **Web Dev**
+- ⚡ Fun fact: **AM A BEGINNER**
 
 ---
 
@@ -50,24 +50,6 @@ I am a **5th Semester B.E. (Computer Science Engineering)** student, currently f
   </p>
   
 </div>
-
----
-
-## 💻 Featured Projects
-
-Here are a few projects I'm proud of. Check them out!
-
-### 1. [Project Name: Simple Calculator App]
-- **Description:** A basic calculator application built as part of an introductory programming course.
-- **Tech Stack:** `C++` or `Java`.
-- **Status:** **[Completed]**
-- **Link:** [Link to Repository]([Project Repository URL]) 
-
-### 2. [Project Name: Static Portfolio Website]
-- **Description:** A simple, responsive website to showcase my academic projects and skills.
-- **Tech Stack:** `HTML`, `CSS`, `Bootstrap`.
-- **Status:** **[In Progress / Live]**
-- **Link:** [Link to Repository]([Project Repository URL]) | [Link to Live Demo]([Project Demo URL])
 
 ---
 
